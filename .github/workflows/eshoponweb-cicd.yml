@@ -12,7 +12,6 @@ env:
   WEBAPP-NAME: eshoponweb-webapp-Abhi
   
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
